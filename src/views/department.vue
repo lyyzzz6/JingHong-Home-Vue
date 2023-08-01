@@ -158,8 +158,8 @@ const router = useRouter();
     </div>
   </div>
   <div style="height: 100px"></div>
-  <JHButton type="middle" @click="router.push('/join')">
-    加入我们
+  <JHButton type="middle" @click="router.push('/activity')">
+    我们的活动
     <img
       src="/photo/svg/rightArrow.svg"
       style="width: 20px; margin-left: 20px"
